@@ -1,6 +1,8 @@
 # The-Insight
 The insight is a 2D Action Platformer created by our team of students during the first year of studies.
 
+Itch.io - https://salamandrastudios.itch.io/climby
+
 City - Poznań.
 
 University - CDV (Collegium Da Vinci)
